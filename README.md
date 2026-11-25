@@ -236,8 +236,8 @@ Install the following before running the project:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+https://github.com/VarshaShakya-sys/customer_behavior_analysis.git
+cd /customer_behavior_analysis
 ```
 
 ### 2. Create a Virtual Environment
